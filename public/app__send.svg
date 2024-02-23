@@ -1,0 +1,10 @@
+firebase login
+
+firebase init
+
+firebase deploy
+
+
+Frontend: React
+UI Framework: Material UI
+Backend: Firebase (for real-time database and user authentication)
